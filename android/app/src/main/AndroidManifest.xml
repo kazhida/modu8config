@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.modu8config">
+    package="com.abplus.modu8config">
    <application
         android:label="modu8config"
         android:icon="@mipmap/ic_launcher">

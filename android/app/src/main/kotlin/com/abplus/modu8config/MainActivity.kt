@@ -1,4 +1,4 @@
-package com.example.modu8config
+package com.abplus.modu8config
 
 import io.flutter.embedding.android.FlutterActivity
 
