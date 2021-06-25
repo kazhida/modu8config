@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class PropertyPanel extends StatefulWidget {
+
+  _PropertyPanelState? _propertyPanelState;
 
   @override
   State<StatefulWidget> createState() {
-    // TODO: implement createState
-    throw UnimplementedError();
+    _propertyPanelState = _PropertyPanelState();
+    return _propertyPanelState!;
   }
 }
 
